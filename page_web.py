@@ -19,8 +19,8 @@
 # page.close
 
 
-title = "test"
-h2 = "titre"
+title = "Voiture"
+h2 = "titre h2"
 with open("index.html","w+") as file:
     file.write("<html>")
     #head
